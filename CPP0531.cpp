@@ -1,8 +1,4 @@
-#include<iostream>
-#include <algorithm>
-#include <string>
-#include <map>
-#include <set>
+#include <bits/stdc++.h>
 
 #define For(i,a,b) for(int i=a; i<b; i++)
 #define testcases() int t; cin >> t; while(t--)
