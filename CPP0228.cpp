@@ -1,4 +1,4 @@
-
+//           IN MA TRẬN 2 (theo kiểu 2 cuộn dây)
 #include <bits/stdc++.h>
  
 using namespace std;
