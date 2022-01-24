@@ -60,6 +60,7 @@ int main(){
         Cuon_1(a); 
         cout << endl;
         Cuon_2(a);
+        cout << endl;
     }
 }   
 
